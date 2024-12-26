@@ -1,1 +1,2 @@
-# Ecomm-Spring
+## E-Commerce Backend Application
+This repository contains the backend implementation for an E-commerce application, developed using the Spring Boot framework. The frontend part was obtained from an external source and is not included in this repository. The primary goal of this project was to gain hands-on experience with Spring Boot and backend development concepts.
